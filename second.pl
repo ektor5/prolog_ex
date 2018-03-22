@@ -1,0 +1,1 @@
+second(X,L1) :- L1 = [A,X|L].
